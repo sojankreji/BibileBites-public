@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="64" viewBox="0 0 220 64" role="img" aria-label="Get it on Google Play">
+  <title>Get it on Google Play</title>
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0" stop-color="#00A86B"/>
+      <stop offset="0.5" stop-color="#FFD400"/>
+      <stop offset="1" stop-color="#FF3D00"/>
+    </linearGradient>
+  </defs>
+  <rect width="220" height="64" rx="12" fill="#111827"/>
+  <!-- play triangle -->
+  <polygon points="28,16 52,32 28,48" fill="url(#g1)"/>
+  <!-- text -->
+  <text x="68" y="28" font-family="Inter, Arial, Helvetica, sans-serif" font-size="10" fill="#E5E7EB">Get it on</text>
+  <text x="68" y="46" font-family="Inter, Arial, Helvetica, sans-serif" font-weight="700" font-size="16" fill="#FFFFFF">Google Play</text>
+</svg>
